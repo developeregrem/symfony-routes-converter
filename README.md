@@ -7,7 +7,7 @@ This work was inspired by the [routing-converter](https://github.com/Stoakes/rou
 ## Usage
 
 Copy the file `ConvertRouteLoader.php` and `MigrateRoutesCommandAttributes`into the Command folder of your project you want to convert (`src/Command`).
-Run the following command to execute the conversation:
+Run the following command to execute the conversion:
 
     php bin/console app:MigrateRoutesCommandAttributes config/routes.yml
 
