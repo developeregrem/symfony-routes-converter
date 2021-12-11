@@ -48,4 +48,4 @@ The Symfony command reads all old routes saved in your routes.yaml file and adds
 
 ## Tests
 
-I've used it for my Symfony project and tested it with Symfony 5.4 and 6.0 and PHP 8. If you wan't to use it please review the code and check whether it fits to your needs. Feel free to adopt it.
+I've used it for my Symfony project and tested it with Symfony 5.4 and 6.0 and PHP 8. If you wan't to use it please review the code and check whether it fits to your needs. Feel free to adapt it.
